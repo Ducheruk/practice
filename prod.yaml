@@ -2,4 +2,3 @@ apiVersion: v3
 kind: Deployment-featured
 metadata:
 spec:
-
