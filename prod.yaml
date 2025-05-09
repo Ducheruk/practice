@@ -1,4 +1,4 @@
-apiVersion: v1
-kind: Deployment
-metadata: meta
+apiVersion: v3
+kind: Deployment-featured
+metadata:
 spec:
